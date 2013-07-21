@@ -1,10 +1,11 @@
 General About:
-  I made this when I encountered a problem, that problem was
-	"I want to do something productive with my time on the internet, but I don't know where to go.."
 
-	So I made this simple program; What it does is it allows you to is create a list of websites you enjoy
-	and then bookmark this program, and every time you click the bookmark the program will automatically send
-	you to one of the websites you have specified. 
+  I made this when I encountered a problem, that problem was
+  "I want to do something productive with my time on the internet, but I don't know where to go.."
+
+  So I made this simple program; What it does is it allows you to is create a list of websites you enjoy
+  and then bookmark this program, and every time you click the bookmark the program will automatically send
+  you to one of the websites you have specified. 
 
 How To Run:
 	• 	Save this file as "AnyNameYouWant.html" to any location of your preference
