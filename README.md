@@ -8,9 +8,13 @@ General About:
   you to one of the websites you have specified. 
 
 How To Run:
+
 	• 	Save this file as "AnyNameYouWant.html" to any location of your preference
+	
 	•	Go to "Create New Bookmark" in your web browser of choice
-	•	Change the name at the top from "New Bookmark" to "Random Bookmark" or whatever your preferred name is.	
+	
+	•	Change the name at the top from "New Bookmark" to "Random Bookmark" or whatever your preferred name is.
+	
 	•	For location list the file path to your "AnyNameYouWant.html"
 			EX: Something along the lines of "FILE:///C:\Users\YourUserName\Desktop\RandomBookmark.html"
 	
