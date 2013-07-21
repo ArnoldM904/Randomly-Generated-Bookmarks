@@ -1,7 +1,12 @@
 Created by Michael Arnold on February 20rd 2013
+
 Last updated: February 23rd 2013
+
 Guide created: Sunday June 21st 2013
+
 Guide last updated: Sunday June 21st 2013
+
+
 
 General About:
   I made this when I encountered a problem, that problem was
