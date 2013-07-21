@@ -9,17 +9,18 @@ General About:
 
 How To Run:
 
-	• 	Save this file as "AnyNameYouWant.html" to any location of your preference
+	•  Save this file as "AnyNameYouWant.html" to any location of your preference
 	
-	•	Go to "Create New Bookmark" in your web browser of choice
+	•  Go to "Create New Bookmark" in your web browser of choice
 	
-	•	Change the name at the top from "New Bookmark" to "Random Bookmark" or whatever your preferred name is.
+	•  Change the name at the top from "New Bookmark" to "Random Bookmark" or whatever your preferred name is.
 	
-	•	For location list the file path to your "AnyNameYouWant.html"
-			EX: Something along the lines of "FILE:///C:\Users\YourUserName\Desktop\RandomBookmark.html"
+	•  For location list the file path to your "AnyNameYouWant.html"
+		  EX: Something along the lines of "FILE:///C:\Users\YourUserName\Desktop\RandomBookmark.html"
 	
 
 Customization guide:
+
 	• To change the website list: Simply replace the "http://CurrentWebsiteListed.org" with your website's URL.
 	• To change the amount of websites on the list you must do two things:
 		1. Delete or add "randomurl[##]=''" until the amount you want is displayed.
