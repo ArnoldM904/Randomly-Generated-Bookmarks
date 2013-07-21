@@ -1,12 +1,3 @@
-Created by Michael Arnold on February 20rd 2013
-Last updated: February 23rd 2013
-
-Guide created: Sunday June 21st 2013
-
-Guide last updated: Sunday June 21st 2013
-
-
-
 General About:
   I made this when I encountered a problem, that problem was
 	"I want to do something productive with my time on the internet, but I don't know where to go.."
@@ -35,3 +26,12 @@ Customization guide:
 		
 Closing notes: I hope this is useful for someone other than myself, if you have any questions or requests
 then please email me at: marnold904@gmail.com and I would be happy to answer and help. :)
+
+
+Created by Michael Arnold on February 20rd 2013
+
+Last updated: February 23rd 2013
+
+Guide created: Sunday June 21st 2013
+
+Guide last updated: Sunday June 21st 2013
