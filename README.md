@@ -1,5 +1,4 @@
 Created by Michael Arnold on February 20rd 2013
-
 Last updated: February 23rd 2013
 
 Guide created: Sunday June 21st 2013
